@@ -30,6 +30,9 @@ No internet. No ads. No tracking.
 | Hold 5 seconds | Settings |
 
 ---
+## 📸 Screenshots
+![ZoneX Launcher screenshots](overview.png)
+---
 
 ## 📲 How to Install
 1) Open the Releases section of this repo.
