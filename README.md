@@ -1,6 +1,6 @@
 # 📳 ZoneX-launcher
 
-A lightweight, fully **offline** Android launcher where you place invisible tap zones anywhere on your home screen and make each one open an app of your choice.
+A lightweight, fully **offline** Android launcher where you place invisible tap zones anywhere on your home screen and make each one open an app of your choice.(Fully safe)
 
 No internet. No ads. No tracking.
 
@@ -36,7 +36,7 @@ No internet. No ads. No tracking.
 Under the latest release, download app-debug.apk from Assets.
 2) Open the downloaded file and tap Install (allow "Install unknown apps" if your phone asks).
 3) Press Home and choose Tap Zones as your default home app.
-(Google Play Protect may warn about apps installed outside the Play Store. This is expected for self-built apps.) 
+4) Google Play Protect may warn about apps installed outside the Play Store. This is expected for self-built apps.
 ---
 
 
@@ -46,4 +46,4 @@ Kotlin · Android SDK only (no third-party libraries) · custom Canvas views · 
 
 ---
 
-*Built for fun and tinkering. Contributions and ideas are welcome.*
+*Built for fun.*
